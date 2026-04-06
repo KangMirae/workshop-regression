@@ -373,7 +373,6 @@ Preguntas guia:
 1. Que variable numerica tiene mayor correlacion con `log_revenue` y por que tiene sentido?
 2. Cuanto mejoro el R² del modelo simple al enriquecido?
 3. Que genero tiene el coeficiente positivo mas alto? Coincide con lo que esperarias?
-4. `vote_count` y `popularity` son buenos predictores en este dataset, pero tienen un problema conceptual si el objetivo fuera predecir recaudacion antes del estreno. Cual es?
 
 ---
 
